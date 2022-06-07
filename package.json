@@ -1,0 +1,27 @@
+{
+  "name": "File-System-Organizer-2",
+  "version": "1.0.0",
+  "description": "This project is a file System organizer made with the help of JavaScript only",
+  "main": "FSO.js",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/honey59022/File-System-Organizer-2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bin": {
+    "pep": "FSO.js"
+  },
+  "bugs": {
+    "url": "https://github.com/honey59022/File-System-Organizer-2/issues"
+  },
+  "homepage": "https://github.com/honey59022/File-System-Organizer-2#readme"
+}
