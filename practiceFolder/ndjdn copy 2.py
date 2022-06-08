@@ -1,0 +1,1 @@
+print("hello python from copy 2");
